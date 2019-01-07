@@ -1,0 +1,14 @@
+{
+    "name": "junio/php",
+    "authors": [
+        {
+            "name": "braulley",
+            "email": "juniorbraulley@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\":"app"
+        }
+    }
+}
